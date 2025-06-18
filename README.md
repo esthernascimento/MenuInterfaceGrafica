@@ -7,14 +7,18 @@ Este é um **sistema de gestão completo** e intuitivo, desenvolvido em **Java**
 ## ✨ Funcionalidades Principais
 
 - **Menu Principal Interativo:** Um menu principal bem organizado com opções categorizadas em "Arquivo" 📁, "Cadastrar" ➕ e "Ajuda" ❓, proporcionando fácil navegação e acesso às funcionalidades do sistema.
+- 
 - **Formulários de Cadastro Dedicados:** Telas específicas e otimizadas para o cadastro e gerenciamento de:
   - **Clientes 👤** — *Cadastro funcional com inserção no banco de dados (INSERT funcionando!).*
   - **Produtos 📦**
   - **Categorias 🏷️** — *CRUD completo implementado: inserir, buscar, editar e excluir categorias com confirmação via diálogo.*
   - **Pedidos 📝**
   - **Itens de Pedidos 🛒**
+  - 
 - **Design Personalizado:** A interface gráfica foi cuidadosamente estilizada com cores e layouts personalizados, visando uma experiência do usuário agradável e eficiente. 🎨
+- 
 - **Ação de Sair:** Opção direta no menu para encerrar o sistema de forma segura. 🚪
+- 
 - **Tela "Sobre":** Uma seção dedicada com informações sobre os desenvolvedores do projeto. 👩🏻‍💻
 
 ---
